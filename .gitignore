@@ -1,0 +1,19 @@
+# Local model files and caches
+models/*
+!models/.gitkeep
+.cache/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Kubernetes local output
+kind-logs/
+*.kubeconfig
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
