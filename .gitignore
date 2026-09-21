@@ -17,3 +17,4 @@ kind-logs/
 .idea/
 .DS_Store
 
+.aider*
